@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "cat",
+  "name": "cat",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:144/x7TSxw4pR6Gu2TiFCf9g",
       "sizes": "144x144",
       "type": "image/png"
     }
